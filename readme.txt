@@ -1,1 +1,1 @@
-all about machine learning
+- Machine Learning Foundations: A Case Study Approach
