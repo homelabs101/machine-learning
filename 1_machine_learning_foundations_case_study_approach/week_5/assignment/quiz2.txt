@@ -1,0 +1,11 @@
+1. Which of the artists below have had the most unique users listening to their songs?
+Taylor Swift
+
+2. Which of the artists below is the most popular artist, the one with highest total listen_count, in the data set?
+Kings of Leon
+
+3. Which of the artists below is the least popular artist, the one with smallest total listen_count, in the data set?
+William Tabbert
+
+4. Using the first 10,000 unique users only in the test data, use the personalized_model learned on the training data to recommend 1 song to each user. What’s the most recommended song?
+Undo - Björk
