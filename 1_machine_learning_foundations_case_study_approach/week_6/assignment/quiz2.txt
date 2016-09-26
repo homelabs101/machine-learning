@@ -1,0 +1,20 @@
+1. What’s the least common category in the training data?
+bird
+
+2. Of the images below, which is the nearest ‘cat’ labeled image in the training data to the the first image in the test data (image_test[0:1])?
+F
+
+3. Of the images below, which is the nearest ‘dog’ labeled image in the training data to the the first image in the test data (image_test[0:1])?
+D
+
+4. For the first image in the test data, in what range is the mean distance between this image and its 5 nearest neighbors that were labeled ‘cat’ in the training data?
+35 to 37
+
+5. For the first image in the test data, in what range is the mean distance between this image and its 5 nearest neighbors that were labeled ‘dog’ in the training data?
+37 to 39
+
+6. On average, is the first image in the test data closer to its 5 nearest neighbors in the ‘cat’ data or in the ‘dog’ data?
+cat
+
+7. In what range is the accuracy of the 1-nearest neighbor classifier at classifying ‘dog’ images from the test set? 
+67.8%
